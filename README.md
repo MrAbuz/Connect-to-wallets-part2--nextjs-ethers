@@ -1,3 +1,8 @@
+2nd way to connect our smart contracts to Metamask: using next.js + ethers
+following from "https://www.youtube.com/watch?v=pdsYCkUWrgQ"
+
+(Delete the things below)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
