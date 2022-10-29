@@ -33,6 +33,9 @@ export default function Home() {
       setIsConnected(false);
     }
   }
+
+  async function execute() {}
+
   //we added a () after return, it just had <div></div>, might be useful dunno
   //its actually pretty simple with {isConnected ? "We are connected" : <button onClick={() => connect()}>Connect!</button>}
   //but the auto format makes it weird and adds some (), but its simple as above. if isConnected is true, it types "We are connected", if not it adds a button
