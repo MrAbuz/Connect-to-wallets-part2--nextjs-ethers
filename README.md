@@ -16,7 +16,7 @@ yarn dev
 then click the url it provides (it opens a tab)
 ```
 
-Then open a new terminal, and:
+Then open a new terminal (a 2nd terminal), and:
 
 ```
 cd ..
